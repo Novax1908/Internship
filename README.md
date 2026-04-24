@@ -5,7 +5,6 @@
 ---
 
 ## 🗂 Project Structure
-
 ```
 task-management-app/
 │
