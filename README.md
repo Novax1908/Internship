@@ -8,7 +8,7 @@
 ```
 task-management-app/
 │
-├── frontend/                    # React frontend application
+├── frontend/                    
 │   ├── src/
 │   │   ├── components/          # React components
 │   │   │   ├── Dashboard.jsx
